@@ -25,5 +25,19 @@ def hyb(e):
 canvas.bind("<Button-1>",klik)
 canvas.bind("<B1-Motion>",hyb)
 
+
+def jedna():
+   pass
+
+def dva():
+   pass
+
+def tri():
+   pass
+
+def styri():
+   pass
+
+
 tkinter.mainloop()
 
